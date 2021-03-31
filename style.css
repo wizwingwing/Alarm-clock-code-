@@ -1,0 +1,14 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    color: aliceblue;
+}
+.clock{
+    margin: 33rem 30rem 0 55rem;
+    text-align: center;
+    border: solid #ccc 1px;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 80px;
+}
